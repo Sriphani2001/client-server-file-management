@@ -1,0 +1,29 @@
+INSTRUCTIONS FOR ASSIGNMENT(clieny-server file management)
+
+The submitted folder contains the following respective files
+1)client_side.py, 2)server_side.py,  3)instructions.txt, 4)userdetails.txt
+5)backend.py,     6)test_report.pdf, 7)userslog.txt
+8)testing.py,     9)root(folder)
+
+steps for execution 
+
+step1:run the server_side.py.
+
+step2:run client_side.py. there will be a list of functions that are needed to be performed.
+
+step3:now give 2nd command to register and then first command to login.
+
+step4:now proceed with rest of commands with number respectively.
+
+step5:after login create a folder, for entering data give a file name with extention,
+      give space and enter the required data.
+
+step6:we can create another folder and can navigate through the files.
+
+step7:after the working press 8 for logout.
+
+
+
+
+
+
